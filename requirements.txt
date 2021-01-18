@@ -1,4 +1,4 @@
 torchvision>=0.3.0
-git+https://github.com/deeplearningfromscratch/pretrained-models.pytorch.git
+pretrainedmodels @ git+https://github.com/deeplearningfromscratch/pretrained-models.pytorch.git
 efficientnet-pytorch==0.6.3
 timm>=0.3.1
